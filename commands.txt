@@ -1,0 +1,7 @@
+git add . //specific
+git add * // all directories
+git commit -m "my message"
+git push / git push origin main
+git status
+git log
+git shortlog
