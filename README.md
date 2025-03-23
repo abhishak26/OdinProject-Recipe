@@ -1,2 +1,2 @@
 # recipes
-creating a simple html recipe website
+created a simple html recipe website

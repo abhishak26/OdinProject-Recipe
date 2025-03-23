@@ -1,4 +1,16 @@
 body{
-    background-color: lightblue;
+    background-color: rgb(114, 201, 230);
     color: black;
+}
+ul,p{
+    background-color: lightcyan;
+    color: red;
+}
+#one,ol,li{
+    color: red;
+    background-color: lightcyan;
+}
+h1{
+    background-color: black;
+    color: white;
 }
